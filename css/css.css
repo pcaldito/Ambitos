@@ -1,0 +1,65 @@
+#tituloIndex{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#numAmbitos{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+#numAmbitos input{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom:5px;
+}
+
+#numAmbitos input[type="submit"]{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #4CAF50;
+}
+
+#tituloRellenar{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#rellenar{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+#rellenar input{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom:5px;
+    margin-left:2px;
+}
+
+#rellenar input[type="submit"]{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #4CAF50;
+}
+
+#tituloInsertar{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#insertados{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+#volverDiv{
+    text-align: center;
+}
+
+#volver{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0 auto;
+    width:80px;   
+}
